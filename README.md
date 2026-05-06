@@ -239,8 +239,8 @@ This system can be useful for:
 
 # 👩‍💻 Author
 
-**Vaishnavi Choudhari**  
-Aspiring Data Scientist | Machine Learning Enthusiast | Full Stack Learner
+**Sanganna Jalde**  
+Aspiring Data Scientist | Machine Learning Enthusiast 
 
 ---
 
